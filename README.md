@@ -18,11 +18,11 @@ integration being a bespoke, hand-wired function-calling setup, an MCP
 server describes its tools once, and *any* MCP-compatible client (Claude
 Desktop, Claude Code, or a custom agent like the one in `client/`) can use
 them without integration-specific code.
-
+ 
 `server/mcp_server.py` is a real MCP server — connect it to Claude Desktop
 today (see "Connecting to Claude Desktop" below) and it works exactly the
 same way it does with the custom client in this repo. That interchangeability
-is the actual value MCP provides over a one-off API integration.
+is the actual value MCP provides over a one-off API integration..
 
 ## "MCP vs a traditional API — when would you use which?"
 
