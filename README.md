@@ -4,7 +4,7 @@ A real, working answer to "how will your AI agent interact with real-world
 systems, safely" — a spec-compliant MCP server (built on Anthropic's
 official Python SDK) with authorization, resilience, and audit logging
 wired through every tool call, plus a local LLM agent client that actually
-uses it. Free, fully local, no API keys.
+uses it. Free, fully local, no API keys. 
 
 Every piece here maps directly to a real interview question about MCP.
 That mapping is the point of this README — read it as answers, not just
