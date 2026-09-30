@@ -9,7 +9,7 @@ uses it. Free, fully local, no API keys.
 Every piece here maps directly to a real interview question about MCP.
 That mapping is the point of this README — read it as answers, not just
 docs.
-
+  
 ## "What is MCP, and why does it matter?"
 
 MCP (Model Context Protocol) is a standard way for an LLM-based agent to
