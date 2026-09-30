@@ -1,0 +1,1 @@
+This is a sandboxed file. The read_file tool can only ever see files in this folder.
