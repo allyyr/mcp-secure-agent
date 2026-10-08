@@ -16,7 +16,7 @@ MCP (Model Context Protocol) is a standard way for an LLM-based agent to
 discover and call tools/resources exposed by a server — instead of every
 integration being a bespoke, hand-wired function-calling setup, an MCP
 server describes its tools once, and *any* MCP-compatible client (Claude
-Desktop, Claude Code, or a custom agent like the one in `client/`) can use
+Desktop, Claude Code, or a custom agent like the one in `client/`) can usee
 them without integration-specific code.
  
 `server/mcp_server.py` is a real MCP server — connect it to Claude Desktop
